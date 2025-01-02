@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱I am an enthusiastic undergraduate pursuing a Bachelor's degree in Computer Science, with a strong commitment to front-end development.Proficient in HTML, CSS, and 
-  JavaScript, I possess a solid foundation in creating dynamic and responsive web applications. My passion for technology and user-centered design drives me to deliver 
-  visually appealing and intuitive interfaces that enhance user experiences. 
+   JavaScript, I possess a solid foundation in creating dynamic and responsive web applications. My passion for technology and user-centered design drives me to deliver 
+   visually appealing and intuitive interfaces that enhance user experiences. 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadarshkumar2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aadarsh-kumar-3a3485275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@khatriaadarsh) 
